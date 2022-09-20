@@ -7,7 +7,7 @@ It is a React application for a comfortable track of cryptocurrency.
 - Realized with Rapid API
 - Made in September 2022
 
-You can see this website on the link: "temporarily absent"
+You can see this website on the link: "https://cryptoverse-app-rapid-api.netlify.app"
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
